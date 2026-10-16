@@ -27,3 +27,10 @@ Optional: System Settings → General → Login Items → add SpotifyBar so it i
 - If nothing else is playing, headset **play** starts Spotify in the background. If Opera, Disney+, YouTube, or similar is using the speakers, the headset button is left alone.
 
 Quit from the tiny **Quit** link at the bottom of the popover.
+
+
+## Screenshots
+
+![Popular list in the menu bar](screenshots/01-popular.png)
+
+![Search results](screenshots/02-search.png)
